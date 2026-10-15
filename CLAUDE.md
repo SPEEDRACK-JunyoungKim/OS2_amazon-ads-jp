@@ -9,14 +9,14 @@
 
 ## 이 앱에 대해
 
-- 하는 일:
-- 담당자:
-- 배포:
+- 하는 일: 아마존 광고 API(일본 SP) 캠페인 조회·후보 추출·입찰가/예산 쓰기 테스트 (Python CLI)
+- 담당자: SPEEDRACK-JunyoungKim
+- 배포: Replit (예정)
 - DB — **2번 절차가 여기서 갈립니다. 비워두지 마세요.**
-  - Supabase 조직(org):
-  - 프로젝트 이름 / ref:
-  - 스키마:
-  - DB 변경 기록 위치: (`ai_data_hub`면 `MS_supabase_schema`, 부서 프로젝트면 이 repo의 `supabase/applied/`)
+  - Supabase 조직(org): 없음 — 이 앱은 Supabase를 쓰지 않습니다
+  - 프로젝트 이름 / ref: 해당 없음
+  - 스키마: 해당 없음
+  - DB 변경 기록 위치: 해당 없음 (Supabase를 붙이게 되면 이 항목부터 채우세요)
 
 ---
 
