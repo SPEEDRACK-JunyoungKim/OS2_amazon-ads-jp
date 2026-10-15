@@ -7,3 +7,14 @@ build/
 .next/
 .DS_Store
 .vscode/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# 실행 결과 (실제 광고 데이터가 들어감)
+logs/
+backups/
